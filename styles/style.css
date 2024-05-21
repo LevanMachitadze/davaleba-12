@@ -1,0 +1,14 @@
+#quote {
+  font-size: 2em;
+  color: #333;
+}
+
+#author {
+  font-size: 1.2em;
+  color: #666;
+}
+
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+}
